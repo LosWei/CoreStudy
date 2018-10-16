@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Aop\Aop.Console\bin\Debug\netcoreapp2.0\Aop.Console.deps.json
+C:\Users\Administrator\source\repos\Aop\Aop.Console\bin\Debug\netcoreapp2.0\Aop.Console.runtimeconfig.json
+C:\Users\Administrator\source\repos\Aop\Aop.Console\bin\Debug\netcoreapp2.0\Aop.Console.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Aop\Aop.Console\bin\Debug\netcoreapp2.0\Aop.Console.dll
+C:\Users\Administrator\source\repos\Aop\Aop.Console\obj\Debug\netcoreapp2.0\Aop.Console.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Aop\Aop.Console\obj\Debug\netcoreapp2.0\Aop.Console.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Aop\Aop.Console\obj\Debug\netcoreapp2.0\Aop.Console.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Aop\Aop.Console\obj\Debug\netcoreapp2.0\Aop.Console.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Aop\Aop.Console\bin\Debug\netcoreapp2.0\Aop.Console.pdb
+C:\Users\Administrator\source\repos\Aop\Aop.Console\obj\Debug\netcoreapp2.0\Aop.Console.dll
+C:\Users\Administrator\source\repos\Aop\Aop.Console\obj\Debug\netcoreapp2.0\Aop.Console.pdb
